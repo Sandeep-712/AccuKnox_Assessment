@@ -1,0 +1,27 @@
+{
+    "categories": [
+      {
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "name": "Widget 1",
+            "text": "Random Text 1"
+          },
+          {
+            "name": "Widget 2",
+            "text": "Random Text 2"
+          }
+        ]
+      },
+      {
+        "name": "Security Dashboard",
+        "widgets": [
+          {
+            "name": "Security Widget 1",
+            "text": "Security Random Text 1"
+          }
+        ]
+      }
+    ]
+  }
+  
